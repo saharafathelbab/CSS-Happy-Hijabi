@@ -5,7 +5,7 @@
 </p>
 
 #### To View Happy Hijabi Live:
-**[View Happy Hijabi](https://saharafathelbab.github.io/happy-hijabi/index.html)**
+**[View Happy Hijabi](https://saharafathelbab.github.io/CSS-Happy-Hijabi/index.html)**
 
 #### General Information
 
