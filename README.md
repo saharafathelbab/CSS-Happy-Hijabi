@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 
 # CSS Shapes - Happy Hijabi
 <p align="center">
